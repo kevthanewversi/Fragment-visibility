@@ -1,4 +1,4 @@
-//This method is runs automatically each time a fragment is shown
+//This method runs automatically each time a fragment is shown
 @Override
 	public void setUserVisibleHint(boolean isVisibleToUser){
 		super.setUserVisibleHint(isVisibleToUser);
